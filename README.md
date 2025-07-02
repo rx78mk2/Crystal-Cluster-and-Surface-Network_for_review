@@ -1,4 +1,4 @@
-# Crystal-Cluster-and-Surface-Network_for_review
+# Crystal-Cluster-and-Surface-Network
 A model for predicting properties for 2D materials
 
 
